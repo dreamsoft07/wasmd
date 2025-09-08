@@ -1,6 +1,6 @@
 module github.com/CosmWasm/wasmd
 
-go 1.23.6
+go 1.24.0
 
 require (
 	github.com/CosmWasm/wasmvm/v2 v2.2.3
@@ -49,7 +49,7 @@ require (
 	github.com/distribution/reference v0.5.0
 	github.com/rs/zerolog v1.33.0
 	github.com/spf13/viper v1.19.0
-	golang.org/x/sync v0.12.0
+	golang.org/x/sync v0.17.0
 	google.golang.org/genproto/googleapis/api v0.0.0-20241015192408-796eee8c2d53
 )
 
